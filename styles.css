@@ -1,0 +1,118 @@
+body {
+  background-color: white;
+  padding: 100px;
+  align-self: center;
+}
+
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.items1 {
+  padding: 20px;
+  width: 10px;
+  border: solid;
+  border-color: black;
+  background-color: green;
+}
+
+.container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.items2 {
+  padding: 20px;
+  width: 10px;
+  border: solid;
+  border-color: black;
+  background-color: green;
+}
+
+.container3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.items3 {
+  padding: 20px;
+  width: 10px;
+  border: solid;
+  border-color: black;
+  background-color: green;
+}
+
+.container4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.items4 {
+  padding: 20px;
+  width: 10px;
+  border: solid;
+  border-color: black;
+  background-color: green;
+}
+
+.container5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.items5 {
+  padding: 20px;
+  width: 10px;
+  border: solid;
+  border-color: black;
+  background-color: green;
+}
+
+.container6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.items6 {
+  padding: 20px;
+  width: 10px;
+  border: solid;
+  border-color: black;
+  background-color: green;
+}
+
+.line1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bline1 {
+  width: 0.5px;
+  border: solid;
+  height: 10px;
+  justify-content: center;
+  background-color: black;
+}
+
+.line2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bline2 {
+  width: 0.5px;
+  border: solid;
+  height: 10px;
+  justify-content: center;
+  background-color: black;
+  align-self: flex-end;
+}
